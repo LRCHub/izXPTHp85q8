@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Kill It",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-02T07:44:29.919160Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kill it",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/01_Kill_it_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kill It Cut It Down",
+      "artist": "Parachute Musical",
+      "has_synced": false,
+      "path": "select/02_Kill_It_Cut_It_Down_Parachute_Musical.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "KILL IT",
+      "artist": "VUKOVI",
+      "has_synced": true,
+      "path": "select/03_KILL_IT_VUKOVI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "KILL IT",
+      "artist": "VUKOVI",
+      "has_synced": false,
+      "path": "select/04_KILL_IT_VUKOVI.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If It's Dead, We'll Kill It",
+      "artist": "Motionless In White",
+      "has_synced": false,
+      "path": "select/05_If_It's_Dead,_We'll_Kill_It_Motionless_In_White.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "KILL IT WITH FIRE",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/06_KILL_IT_WITH_FIRE_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If It's Dead, We'll Kill It",
+      "artist": "Motionless in White feat. Brandan Schieppati",
+      "has_synced": true,
+      "path": "select/07_If_It's_Dead,_We'll_Kill_It_Motionless_in_White_feat._Brandan_Schieppati.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "If It's Dead, We'll Kill It",
+      "artist": "Motionless In White; Brandan Schieppati",
+      "has_synced": true,
+      "path": "select/08_If_It's_Dead,_We'll_Kill_It_Motionless_In_White;_Brandan_Schieppati.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kill It or Die",
+      "artist": "L.A. Guns",
+      "has_synced": false,
+      "path": "select/09_Kill_It_or_Die_L.A._Guns.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kill It with Fire",
+      "artist": "Lord of the Lost",
+      "has_synced": true,
+      "path": "select/10_Kill_It_with_Fire_Lord_of_the_Lost.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kill It with Fire (But Kill It Good) [Rabia Sorda Version]",
+      "artist": "Lord of the Lost",
+      "has_synced": true,
+      "path": "select/11_Kill_It_with_Fire_(But_Kill_It_Good)_[Rabia_Sorda_Version]_Lord_of_the_Lost.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "If It's Dead, We'll Kill It",
+      "artist": "Motionless In White",
+      "has_synced": true,
+      "path": "select/12_If_It's_Dead,_We'll_Kill_It_Motionless_In_White.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "If It Bleeds We Can Kill It",
+      "artist": "Dragony",
+      "has_synced": true,
+      "path": "select/13_If_It_Bleeds_We_Can_Kill_It_Dragony.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kill It With Fire",
+      "artist": "Lord Of The Lost",
+      "has_synced": true,
+      "path": "select/14_Kill_It_With_Fire_Lord_Of_The_Lost.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kill It",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Kill_It_aespa.txt"
+    }
+  ]
+}
